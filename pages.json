@@ -1,0 +1,20 @@
+{
+    "about":"About - GOV.UK Verify - GOV.UK",
+    "about_cerified_conmpanies":"About certified companies - GOV.UK Verify - GOV.UK",
+    "about_identity_accounts":"About identity accounts - GOV.UK Verify - GOV.UK",
+    "choosing": "About choosing a company",
+    "can_i-be-verified":"Can I be verified? - GOV.UK Verify - GOV.UK",
+    "select_all_the_downuments_you_have":"Select all the documents you have - GOV.UK Verify - GOV.UK",
+    "what-technology_can_you_use":"Do you have a mobile phone or tablet? - GOV.UK Verify - GOV.UK",
+    "choose_a_certified_company":"Choose a certified company - GOV.UK Verify - GOV.UK",
+    "you\"ll_now_be_directed_to_your_chosen_compmay":"You\"ll now be redirected - GOV.UK Verify - GOV.UK",
+    "select_your-certified_company":"Sign in with a certified company - GOV.UK Verify - GOV.UK",
+    "cancel_register": "Cancel - REGISTER",
+    "choosing": "About choosing a company",
+    "idp_chosen": "was chosen for registration",
+    "matching": "Matching Outcome - Match",
+    "register_failure": "Failure - REGISTER",
+    "sign_in_start": "Sign In -",
+    "success_register": "Success - REGISTER",
+    "success_sign": "Success - SIGN_IN"
+}

@@ -1,0 +1,54 @@
+{
+	"BIS RP":{
+		"Spreadsheet_name":"BIS RP",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},	
+	"DEFRA RP":{
+		"Spreadsheet_name":"DEFRA RP",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"DVLA F2D RENEW":{
+		"Spreadsheet_name":"DVLA F2D RENEW",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"DVLA F2D REPORT":{
+		"Spreadsheet_name":"DVLA F2D REPORT",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"DVLA VDL":{
+		"Spreadsheet_name":"DVLA VDL",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"DWP UCDS":{
+		"Spreadsheet_name":"DWP UCDS",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"HMRC CC":{
+		"Spreadsheet_name":"HMRC CC",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"HMRC FF":{
+		"Spreadsheet_name":"HMRC FF",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"HMRC CC":{
+		"Spreadsheet_name":"HMRC CC",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"HMRC PTA":{
+		"Spreadsheet_name":"HMRC PTA",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"HMRC SA":{
+		"Spreadsheet_name":"HMRC SA",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"HMRC TE":{
+		"Spreadsheet_name":"HMRC TE",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"HMRC YSP":{
+		"Spreadsheet_name":"HMRC YSP",
+		"tabs":["Performance Measures - Weekly","Funnel"]
+	}
+}

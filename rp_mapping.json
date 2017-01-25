@@ -1,0 +1,15 @@
+{
+    "https://www.ruralpayments.service.gov.uk" : "DEFRA RP",
+    "https://www.fitness-to-drive.service.gov.uk/report" : "DVLA F2D REPORT",
+    "https://www.fitness-to-drive.service.gov.uk/renew" : "DVLA F2D RENEW",
+    "https://www.universal-credit.service.gov.uk" : "DWP UCDS",
+    "https://www.viewdrivingrecord.service.gov.uk" : "DVLA VDL",
+    "https://prod-left.tax.service.gov.uk/SAML2/FANDF" : "HMRC FF",
+    "https://prod-left.tax.service.gov.uk/SAML2/MD" : "HMRC CC",
+    "https://prod-left.tax.service.gov.uk/SAML2/ISA" : "HMRC SA",
+    "https://prod-left.tax.service.gov.uk/SAML2/YSP" : "HMRC YSP",
+    "https://prod-left.tax.service.gov.uk/SAML2/TAI" : "HMRC TE",
+    "https://prod-left.tax.service.gov.uk/SAML2/PERTAX" : "HMRC PTA",
+    "https://prod.redundancy-payments.org.uk/" : "BIS RP",
+    "http://www.test-rp.gov.uk/SAML2/MD":"HMRC CC"
+}
