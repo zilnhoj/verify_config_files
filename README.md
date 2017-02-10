@@ -24,14 +24,15 @@ Before you make any changes to the files:
 - create a new Git branch i.e. git checkout -b branch-name
 - follow the instructions below
 
-## Updating sheet_tab_names.jsoon
-This file set the google sheet name, and tabs names for the Google sheet where the final data set will be sent to
+## Updating sheet_tab_names.json
+
+This file sets the Google sheet and tabs names for where the final data set will be sent to
 
 Create a Google sheet using the format
 - name to be called the name of the service [RP]
-- 2 tabs in the sheet to be called Performance Measures and Funnel
- 
-to update the file
+- two tabs in the sheet to be called Performance Measures and Funnel 
+
+To update the file
 - copy one of the entries
 - paste to to the end of the file just before the closing curly brace
 - make sure it is separated from the previous entry with a comma
@@ -45,9 +46,9 @@ to update the file
 	},	
 ```
 ## rp_mapping.json
-In the raw date each services is referred to by is't URL.  This is not very human readable.
+In the raw data csv file each services is referred to by it's URL.  This is not very human readable.
 
-This file is used tho map the URL for the service to the service name.  
+This file is used to map the URL for the service to the service name.  
 
 To update the file:
 - copy a previous entry 
@@ -60,7 +61,9 @@ To update the file:
 ```JSON
 "https://www.ruralpayments.service.gov.uk" : "DEFRA RP",
 ```
-## servcies.jsoon
+
+## servcies.json
+
 This file contains the names of all the services 
 
 To update the file:
