@@ -15,6 +15,16 @@ Clone the repository one level up from your script folder
 git clone git@github.com:zilnhoj/verify_config_files.git
 ```
 
+If you know that a new service has been added to Verify and these files have been updated siince you last ran your scripts you need to pull the new files to your local envoronment before you can run your reporting scripts
+
+In the terminal window type the following
+
+```
+cd /pathe/to/config/folder
+git pull <return>
+```
+Your local files will be up-to-date and you can run the scripts that use these files
+
 # Updating the files
 
 Everytime a new services is added to verify that you need to report on you need to update these files 
