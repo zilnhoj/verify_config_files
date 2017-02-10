@@ -76,8 +76,8 @@ To update the file:
 
 ```JSON
 "BIS RP" : "BIS RP",
-  "DVLA VDL" : "DFT DVLA VDL",
-  "DVLA F2D REPORT": "DFT DVLA F2D REPORT",
+"DVLA VDL" : "DFT DVLA VDL",
+"DVLA F2D REPORT": "DFT DVLA F2D REPORT",
 ```
 
 ## pages.json
@@ -98,13 +98,15 @@ Once you are finished all the changes locally you can run your script and it sho
 To make sure that this is the canonical source for the config files push your changes as normal back to the repository
 
 to do this type:
+```
 git add . <return>
 git commit -m "your descriptive commit message" <return>
 git push origin <branch-name>
-
+```
 Let one of your colleages know that there is a pull request waiting and they can merge it for you
 Once the changes are merged return to your master branch and pull the changes to your locel machine
-
+```
 git checkout master
 git pull
+```
 
