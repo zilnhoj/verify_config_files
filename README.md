@@ -17,12 +17,12 @@ git clone git@github.com:zilnhoj/verify_config_files.git
 
 # Updating the files
 
+Everytime a new services is added to verify that you need to report on you need to update these files 
+
 Before you make any changes to the files:
 - in terminal change directory, cd, to the config folder
 - create a new Git branch i.e. git checkout -b branch-name
 - follow the instructions below
-
-# Everytime a new services is added to verify that you need to report on you need to update these files 
 
 ## Updating sheet_tab_names.jsoon
 This file set the google sheet name, and tabs names for the Google sheet where the final data set will be sent to
