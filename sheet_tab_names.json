@@ -50,5 +50,9 @@
 	"HMRC YSP":{
 		"Spreadsheet_name":"HMRC YSP",
 		"tabs":["Performance Measures - Weekly","Funnel"]
+	},
+	"LR SM":{
+		"Spreadsheet_name":"LR SM",
+		"tabs":["Performance Measures - Weekly","Funnel"]
 	}
 }

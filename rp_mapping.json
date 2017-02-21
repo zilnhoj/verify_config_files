@@ -11,5 +11,7 @@
     "https://prod-left.tax.service.gov.uk/SAML2/TAI" : "HMRC TE",
     "https://prod-left.tax.service.gov.uk/SAML2/PERTAX" : "HMRC PTA",
     "https://prod.redundancy-payments.org.uk/" : "BIS RP",
-    "http://www.test-rp.gov.uk/SAML2/MD":"HMRC CC"
+    "http://www.test-rp.gov.uk/SAML2/MD":"HMRC CC",
+    "https://production.landregistry-dm.service.gov.uk" : "LR SM",
+    "https://www-productionc.ruralpayments.service.gov.uk":"DEFRA RP"
 }

@@ -1,0 +1,11 @@
+{
+    "https://auth.digidentity.eu/sso/cabinet" : "Digidentity",
+    "https://auth.digidentity-preproduction.eu/sso/cabinet":"Digidentity",
+    "https://auth.myprofile.postoffice.co.uk/sso/cabinet" : "Post Office",
+    "https://gateway.identity.barclays.co.uk" : "Barclays",
+    "https://identity.royalmail.com" : "Royal Mail",
+    "https://verify.citizensafe.co.uk" : "Citizensafe (GB Group)",
+    "https://verify.secureidentity.co.uk" : "SecureIdentity (Morpho)",
+    "https://www.experianidentityservice.co.uk/Saml/" : "Experian",
+    "Verizon":"Verizon"
+}
